@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<question type="truefalse">
+   <questiontext format="html">
+      <text>Exam lundi prochain de Algo avancée ? </text>
+   </questiontext>
+
+   <answer fraction="100">
+      <text>Vrai</text>
+      <feedback>
+         <text>Correct !</text>
+      </feedback>
+   </answer>
+   <answer fraction="0">
+      <text>Faux</text>
+      <feedback>
+         <text>Ooops !</text>
+      </feedback>
+   </answer>
+</question>
